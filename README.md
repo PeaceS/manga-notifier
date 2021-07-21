@@ -7,3 +7,7 @@ The first back-end side is [niceoppai](https://github.com/PeaceS/niceoppai_notif
 
 - Install [Next.js](https://nextjs.org/docs)
 - That's pretty much it, for now
+
+## Deployment
+
+CD, with the help of Vercel, merge to `production` branch, and it will go straight to [mange-notifier](https://manga-notifier.xyz/)
