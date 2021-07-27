@@ -11,3 +11,7 @@ The first back-end side is [niceoppai](https://github.com/PeaceS/niceoppai_notif
 ## Deployment
 
 CD, with the help of Vercel, merge to `production` branch, and it will go straight to [mange-notifier](https://manga-notifier.xyz/)
+
+## Note
+
+The authenticate on API side is handled by Google Auth, which might need addition setup, ref: https://cloud.google.com/functions/docs/securing/authenticating#gcloud
